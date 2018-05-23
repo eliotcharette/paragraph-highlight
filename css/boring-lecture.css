@@ -1,0 +1,28 @@
+body {
+  font-size: 1.5em;
+  color: black;
+  background-color: lightcyan;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2.intro {
+  color: red;
+  font-size: 1.2em;
+}
+
+p.intro {
+  color: navy;
+  font-size: .8em
+}
+
+img.intro {
+   height: 14em;
+   width: 15em;
+   vertical-align: middle;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
