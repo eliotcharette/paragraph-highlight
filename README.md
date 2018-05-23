@@ -9,7 +9,7 @@
 Created a page featuring Lorem iptsum text as filler to test out styling using classes.
 Rewrote site replace intro class with div.
 
-## Technologye Used
+## Technology Used
 
 HTML, CSS and styling using div
 
