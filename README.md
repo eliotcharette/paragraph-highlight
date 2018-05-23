@@ -7,10 +7,11 @@
 ## About
 
 Created a page featuring Lorem iptsum text as filler to test out styling using classes.
+Rewrote site replace intro class with div.
 
 ## Technologye Used
 
-HTML and CSS and styling using classes
+HTML, CSS and styling using div
 
 ##installation
 Clone from https://github.com/xamdes/boring-lecture.git
